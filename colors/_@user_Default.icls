@@ -1,0 +1,26 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-01-22T15:07:21</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.3.1.0.0</property>
+    <property name="modified">2019-04-11T14:43:02</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="a7700" />
+    <option name="FILESTATUS_RENAMED" value="4242" />
+  </colors>
+  <attributes>
+    <option name="ReSharper.JS_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="247680" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
