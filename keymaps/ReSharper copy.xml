@@ -1,21 +1,42 @@
 <keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompileDirty" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
-  <action id="NextTab">
+  <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Log.JumpToSource" />
+  <action id="NextDiff" />
+  <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
 </keymap>
