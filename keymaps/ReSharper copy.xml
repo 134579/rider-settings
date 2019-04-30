@@ -12,7 +12,6 @@
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
-  <action id="FindInPath" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -32,10 +31,6 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
