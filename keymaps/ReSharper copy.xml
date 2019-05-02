@@ -7,11 +7,16 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompileDirty" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt f5" />
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
+  <action id="EvaluateExpression" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -31,6 +36,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="shift f10" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
