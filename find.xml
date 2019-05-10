@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\WpfApp1\MainWindow.xaml'" />
-    <option name="defaultScopeName" value="File '...\WpfApp1\MainWindow.xaml'" />
-    <option name="SEARCH_SCOPE" value="File '...\WpfApp1\MainWindow.xaml'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
