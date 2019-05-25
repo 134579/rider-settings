@@ -9,11 +9,6 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;FIXME)(\W|$)(.*)">
-      <option name="FOREGROUND" value="ff0314" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="e30018" />
-    </pattern>
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
