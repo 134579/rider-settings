@@ -2,6 +2,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -20,6 +21,7 @@
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="EvaluateExpression" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -57,4 +59,5 @@
     <keyboard-shortcut first-keystroke="f10" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
 </keymap>
