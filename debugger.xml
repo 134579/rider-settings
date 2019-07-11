@@ -13,7 +13,9 @@
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="shouldPromoteEditAndContinue" value="false" />
           <option name="remappedSourceLocationsMap">
-            <map />
+            <map>
+              <entry key="" value="E:/Project/C#/Trady" />
+            </map>
           </option>
         </configuration>
       </debugger>
