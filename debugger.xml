@@ -15,6 +15,10 @@
           <option name="remappedSourceLocationsMap">
             <map>
               <entry key="" value="E:/Project/C#/Trady" />
+              <entry key="C:\projects\moq4\src\Moq\Mock.Generic.cs" value="E:/Project/C#/NumSharp" />
+              <entry key="D:\a\1\s\src\NUnitFramework\framework\Internal\Execution\SimpleWorkItem.cs" value="E:/Project/C#/NumSharp" />
+              <entry key="D:\a\1\s\src\NUnitFramework\framework\Internal\Execution\WorkItem.cs" value="E:/Project/C#/NumSharp" />
+              <entry key="D:\a\1\s\src\NUnitFramework\framework\Internal\Reflect.cs" value="E:/Project/C#/NumSharp" />
             </map>
           </option>
         </configuration>
