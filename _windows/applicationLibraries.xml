@@ -266,5 +266,43 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 interpreter library">
+      <CLASSES>
+        <root url="file://G:/Program Files/Python36/DLLs" />
+        <root url="file://G:/Program Files/Python36/Lib" />
+        <root url="file://G:/Program Files/Python36" />
+        <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" />
+        <root url="file://G:/Program Files (x86)/wind/x64" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages" />
+        <root url="file://G:/Wind/Wind.NET.Client/WindNET/x64" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32/lib" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/.Rider2019.1/system/python_stubs/-1908899584" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://G:/Program Files/Python36/DLLs" />
+        <root url="file://G:/Program Files/Python36/Lib" />
+        <root url="file://G:/Program Files/Python36" />
+        <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" />
+        <root url="file://G:/Program Files (x86)/wind/x64" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages" />
+        <root url="file://G:/Wind/Wind.NET.Client/WindNET/x64" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32/lib" />
+        <root url="file://G:/Program Files/Python36/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/.Rider2019.1/system/python_stubs/-1908899584" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
